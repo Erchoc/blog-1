@@ -101,9 +101,9 @@ Kernel 的 route 是一个 Illuminate\Routing\Router 对象。
 
 ### 路由调度
 
-//Illuminate\Routing\Router
-
 ```php
+    //Illuminate\Routing\Router
+
     /**
      * Dispatch the request to the application.
      *
@@ -152,8 +152,9 @@ Kernel 的 route 是一个 Illuminate\Routing\Router 对象。
 
 #### 怎么找到路由的
 
-//Illuminate\Routing\Router
 ```php
+    //Illuminate\Routing\Router
+
     /**
      * Find the route matching a given request.
      *
