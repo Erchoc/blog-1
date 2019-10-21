@@ -615,4 +615,6 @@ public function getSomeDateAttribute($date)
 
 [🔝 返回目录](#contents)
 
+转自： https://github.com/alexeymezenin/laravel-best-practices/blob/master/chinese.md
+
 
