@@ -14,6 +14,10 @@
 
 * [Laravel 请求到达控制器的过程](/php/Laravel请求到达控制器的过程.md)
 
+* [Laravel 最佳实践](/php/Laravel最佳实践.md)
+
+
+
 ## 前端
 * [在html页面中引入css的几种方式](/前端/在html页面中引入css的几种方式.md)
 
