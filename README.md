@@ -6,10 +6,9 @@
 ## php
 ## php:laravel
 
-* [Laravel 的请求是怎么到达控制器的](/php/test.md)
+* [Laravel 请求到达控制器的过程](/php/Laravel请求到达控制器的过程.md)
 
 
 
-![test](https://github.com/wmlc/blog/master/gitImg/test.jpg)
 
 ![test](/gitImg/test.jpg)
