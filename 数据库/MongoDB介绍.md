@@ -132,6 +132,7 @@ MongoDB server version: 4.0.9
 不管我们学习什么数据库都应该学习其中的基础概念，在mongodb中基本的概念是文档、集合、数据库，下面我们挨个介绍。
 
 下表将帮助您更容易理解Mongo中的一些概念：
+
 SQL术语/概念 | MongoDB术语/概念 | 解释/说明
 ------------ | ------------- | -------------		
 database |	database |	数据库
@@ -203,8 +204,8 @@ config: 当Mongo用于分片设置时，config数据库在内部使用，用于�
 ```
 下表列出了 RDBMS 与 MongoDB 对应的术语：
 
-RDBMS |	MongoDB
------------- | ------------- | -------------		
+RDBMS   | 	MongoDB
+---------     | -----------
 数据库 |	数据库
 表格|	集合
 行	|文档
@@ -212,9 +213,8 @@ RDBMS |	MongoDB
 表联合	|嵌入文档
 主键	|主键 (MongoDB 提供了 key 为 _id )
 
-数据库服务和客户端
-
--|-
+数据库服务和客户端 | .
+---------     | -----------
 Mysqld/Oracle|	mongod
 mysql/sqlplus	|mongo
 需要注意的是：
