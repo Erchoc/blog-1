@@ -213,7 +213,7 @@ RDBMS   | 	MongoDB
 表联合	|嵌入文档
 主键	|主键 (MongoDB 提供了 key 为 _id )
 
-数据库服务和客户端 | .
+数据库服务 | 客户端
 ---------     | -----------
 Mysqld/Oracle|	mongod
 mysql/sqlplus	|mongo
