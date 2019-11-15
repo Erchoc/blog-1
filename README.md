@@ -32,6 +32,9 @@
 ## MongoDB
 * [MongoDB 介绍](/数据库/MongoDB介绍.md)
 
+## Redis
+* [Redis 简介](/redis/Redis简介.md)
+
 
 
 
